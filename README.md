@@ -1,0 +1,1 @@
+# BTG-nVidia.miner.0.3.4b.Linux.Bin
